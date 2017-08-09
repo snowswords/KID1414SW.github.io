@@ -1,5 +1,5 @@
 ---
-title: Why Blog
+title: 把内心的光亮传给世人
 layout: post
 ---
 
