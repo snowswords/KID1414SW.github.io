@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PHP Socket的使用
-category: 技术
+category: Forging
 tags: PHP
 keywords: PHP,Socket
 description: 
