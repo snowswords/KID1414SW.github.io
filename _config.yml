@@ -4,7 +4,7 @@ email: 1318011774@qq.com
 description: > # this means to ignore newlines until "baseurl:"
   闫肃的博客
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: http://KID1414SW.github.io # the base hostname & protocol for your site
+url: https://KID1414SW.github.io # the base hostname & protocol for your site
 rss_url: /pages/feed.xml
 author: Su Yan
 
@@ -29,9 +29,7 @@ disqus:
   shortname: suyan-zh
 
 # google analytics config
-ga:
-  id: UA-54767140-1
-  url: yansu.org
+#
 
 # Build settings
 permalink: /:year/:month/:day/:title.html
