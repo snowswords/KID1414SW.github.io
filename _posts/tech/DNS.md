@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 搭建
-category: Forging
+category: 技术
 tags: React
 keywords: React
 ---
